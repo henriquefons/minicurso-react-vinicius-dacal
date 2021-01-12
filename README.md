@@ -2,7 +2,11 @@
 
 Esse projeto visa aumentar meu conhecimento com a biblioteca React JS
 
+Dependecias: create-react-app / react-rout-dom / 
+
 ## Conhecimentos adiquidos
 
-GIT - manipular branchs; manipular pull requests
-react-route-dom
+GIT -> manipular branchs; manipular pull requests
+
+Rotas -> react-route-dom
+
