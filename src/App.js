@@ -1,5 +1,5 @@
 import React from "react";
-import PromotionCard from "./components/Promotion/Card/card.js";
+import PromotionCard from "components/Promotion/Card/card.js";
 
 const App = () => {
   const promotion = {
@@ -20,7 +20,7 @@ const App = () => {
   };
 
   return (
-    <div className="App" style={{maxWidth: 800, margin: "30px auto"}}>
+    <div className="App" style={{ maxWidth: 800, margin: "30px auto" }}>
       <PromotionCard promotion={promotion}></PromotionCard>
     </div>
   );
