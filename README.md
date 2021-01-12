@@ -4,7 +4,7 @@ Curso mininistrado por Vinicius Dacal. Playlist no YouTube: https://www.youtube.
 
 Esse projeto visa aumentar meu conhecimento com a biblioteca React JS
 
-Dependecias: create-react-app / react-rout-dom / 
+Dependecias: create-react-app / react-rout-dom / axios
 
 ## Conhecimentos adiquidos
 
@@ -12,3 +12,4 @@ GIT -> manipular branchs; manipular pull requests
 
 Rotas -> react-route-dom
 
+Consumo de API -> axios
