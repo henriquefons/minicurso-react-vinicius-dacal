@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# Começando com React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto visa aumentar meu conhecimento com a biblioteca React JS
 
-## Available Scripts
+## Conhecimentos adiquidos
 
-In the project directory, you can run:
+GIT - manipular branchs; manipular pull requests
+react-route-dom
 
 ### `npm start`
 
